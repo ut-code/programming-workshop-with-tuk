@@ -1,0 +1,9 @@
+{
+	"term": {
+		"prefix": "term",
+		"body": [
+			"<Term type=\"$2\">$TM_SELECTED_TEXT</Term>"
+		],
+		"description": "term"
+	}
+}
